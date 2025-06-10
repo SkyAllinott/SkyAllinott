@@ -1,5 +1,5 @@
 ## Hi there 👋
-By day, I run ML models, create dashboards and data pipelines. By night, I try to do anything but. 
+By day I am a "full-stack" Data Scientist, running ML models, creating dashboards, and creating data pipelines. By night, I try to do anything but. 
 <br><br>
 Always working on my HomeLab (my loveable servers of Winston, Timothy, and Zenyatta), and currently learning Rust as a passion project. 
 
