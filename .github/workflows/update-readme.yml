@@ -18,7 +18,7 @@ jobs:
           TIMESTAMP=$(date +%s)
           sed -i 's/cache_bust=[0-9]*/cache_bust='"$TIMESTAMP"'/' README.md
 
-      - name: Push changes using PAT
+      - name: Commit and push changes
         env:
           PAT: ${{ secrets.PAT }}
         run: |
@@ -27,4 +27,4 @@ jobs:
           git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "Update README with fresh stats" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${PAT}@github.com/${{ github.repository }} HEAD:master
