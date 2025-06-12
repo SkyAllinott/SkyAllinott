@@ -25,6 +25,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
+          
+          # DEBUG: Show remote URL to confirm PAT is being used
+          echo "Remote URL: $(git config --get remote.origin.url)"
+          
           git add README.md
           git diff --cached --quiet || git commit -m "Update README with fresh stats"
           git push origin HEAD:master
