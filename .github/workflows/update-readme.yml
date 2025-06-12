@@ -11,7 +11,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: SkyAllinott/SkyAllinott
+          token: ${{ secrets.GH_PAT }} 
 
       - name: Update README.md with cache-busting timestamp
         run: |
@@ -20,16 +23,11 @@ jobs:
 
       - name: Commit and push changes
         env:
-          PAT: ${{ secrets.PAT }}
+          token: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
-          
-          # DEBUG: Show remote URL to confirm PAT is being used
-          echo "Remote URL: $(git config --get remote.origin.url)"
-          
-          git add README.md
-          git diff --cached --quiet || git commit -m "Update README with fresh stats"
-          git push origin HEAD:master
+          git add .
+          git commit -m "generated"
+          git push
 
