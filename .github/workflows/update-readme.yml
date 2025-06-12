@@ -9,8 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - run: |
+      - name: Update README.md with cache-busting timestampAdd commentMore actions
+        run: |
+          TIMESTAMP=$(date +%s)
+          sed -i 's/cache_bust=[0-9]*/cache_bust='"$TIMESTAMP"'/' README.md
+      - name: push
+        run: |
           # Note: the following account information will not work on GHES
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
