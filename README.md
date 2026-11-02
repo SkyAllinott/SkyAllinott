@@ -5,8 +5,8 @@ Always working on my HomeLab (my loveable servers of Winston, Timothy, and Zenya
 
 
 <div align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SkyAllinott&theme=onedark&rank_icon=percentile&hide_rank=false&include_all_commits=false&cache_bust=1793569089">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SkyAllinott&size_weight=0.25&count_weight=0.75&theme=onedark&langs_count=8&layout=compact&cache_bust=1793569089">
+  <img src = "https://github-stats-extended.vercel.app/api?username=SkyAllinott&theme=onedark&rank_icon=percentile&hide_rank=false&include_all_commits=false&cache_bust=1793569089">
+  <img src = "https://github-stats-extended.vercel.app/api/top-langs/?username=SkyAllinott&size_weight=0.25&count_weight=0.75&theme=onedark&langs_count=8&layout=compact&cache_bust=1793569089">
 </div>
 * Note that top languages does not reflect my proficiency, but a mixture of repo count and line count. For instance, I am most comfortable with R and SQL as I use them daily at work, but try to push myself beyond them here.
 <br><br>
