@@ -13,11 +13,11 @@ Always working on my HomeLab (my loveable servers of Winston, Timothy, and Zenya
 
 Here are some repos I'm proud of.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyAllinott&repo=HomeLab&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/HomeLab)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyAllinott&repo=F1-API&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/F1-API)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyAllinott&repo=skyallinott.github.io&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/skyallinott.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyAllinott&repo=Credit-Card-Fraud&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/Credit-Card-Fraud)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyAllinott&repo=Forecasting-Energy-Consumption&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/Forecasting-Energy-Consumption)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyAllinott&repo=Analysing-Business-Metrics&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/Analysing-Business-Metrics)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyAllinott&repo=Edmonton-Housing&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/Edmonton-Housing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkyAllinott&repo=IBM-Employee-Retention&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/IBM-Employee-Retention)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=SkyAllinott&repo=HomeLab&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/HomeLab)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=SkyAllinott&repo=F1-API&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/F1-API)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=SkyAllinott&repo=skyallinott.github.io&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/skyallinott.github.io)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=SkyAllinott&repo=Credit-Card-Fraud&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/Credit-Card-Fraud)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=SkyAllinott&repo=Forecasting-Energy-Consumption&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/Forecasting-Energy-Consumption)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=SkyAllinott&repo=Analysing-Business-Metrics&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/Analysing-Business-Metrics)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=SkyAllinott&repo=Edmonton-Housing&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/Edmonton-Housing)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=SkyAllinott&repo=IBM-Employee-Retention&theme=onedark&cache_bust=1793569089)](https://github.com/SkyAllinott/IBM-Employee-Retention)
